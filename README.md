@@ -15,8 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/Hakki999/Hakki999/blob/output/snake.svg" alt="Snake animation" />
+##
 
 ###
